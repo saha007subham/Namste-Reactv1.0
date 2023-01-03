@@ -28,3 +28,5 @@ root.render(container);
 
 console.log(container);
 console.log(heading);
+
+console.log("hello"); 
